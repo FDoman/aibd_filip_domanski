@@ -1,6 +1,6 @@
 Lab 5 - TIER Protocol and Tidy Data
 
-Project is divide into several files, stored in appropriate folders:
+Project is divided into several files, stored in appropriate folders:
 |--AnalysisData
 |	|--drinks_long.csv		#data used to generate the results in long format
 |	|--drinks_wide.csv		#data used to generate the results in wide format
