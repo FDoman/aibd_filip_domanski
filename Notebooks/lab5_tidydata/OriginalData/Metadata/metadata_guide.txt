@@ -1,0 +1,12 @@
+Original data file is available at /Original Data folder as a drinks.csv file.
+
+It contains five columns to store the variables: country (as strings), beer_servings, 
+spirit_servings, wine_servings, total_litres_of_pure_alcohol (all as numeric values). All servings are
+average values per person.
+The delimiters used to seperate variables are commas.
+
+The story behind the data can be obtained at URL: 
+https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+
+Whereas file itself belongs to GitHub reposiroty at URL:
+https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
