@@ -1,6 +1,6 @@
 Lab 5 - TIER Protocol and Tidy Data
 
-#Display the source blob to see folders structure with proper indentation.
+/*Display the source blob to see folders structure with proper indentation.
 
 Project is divided into several files, stored in appropriate folders:
 |--AnalysisData
