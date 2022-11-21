@@ -1,0 +1,11 @@
+Original data file is available at /Original Data folder as a 13_WARMINSKO-MAZURSKIE.csv file.
+File name has been simplified from '13_WARMIN╠üSKO-MAZURSKIE.csv' to eliminate uncommon characters.
+
+It contains six columns to store the variables: 
+index, days gone since purchase, brand of product, buyer's age, buyer's sex and product's grade (review). 
+Data are either integers, float numbers or strings (chars).
+The delimiters used to seperate variables are commas.
+
+Aquired data focuses on reviews of vacuum cleaners sold at specific store based in one of sixteen
+voivodeships - in this case it's warminsko-mazurskie voivodeship.
+Each purchase is also strictly connected with personal information about the buyers.
